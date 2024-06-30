@@ -1,0 +1,1 @@
+Este repositorio contiene todos los archivos, recursos y documentación necesarios para el desarrollo y mantenimiento de nuestra innovadora plataforma web diseñada para promover la ciudadanía digital. Nuestro objetivo es fomentar el uso responsable y efectivo de las tecnologías digitales, proporcionando una variedad de herramientas y recursos educativos accesibles a todos.
